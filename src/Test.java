@@ -10,6 +10,8 @@ public class Test {
 		System.out.println("I'm also a sophomore. What's your major?");
 		System.out.println("I'm a math major. How about you?");
 		System.out.println("That's cool! I'm a software enginnering major.");
+		System.out.println("It was nice talking to you!");
+		System.out.println("Nice talking to you!");
 		
 
 	}
