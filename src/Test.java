@@ -12,6 +12,7 @@ public class Test {
 		System.out.println("That's cool! I'm a software enginnering major.");
 		System.out.println("It was nice talking to you!");
 		System.out.println("Nice talking to you!");
+		System.out.println("Okay. Last line added!");
 		
 
 	}
