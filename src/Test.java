@@ -8,6 +8,8 @@ public class Test {
 		System.out.println("Nice to meet you! Are you a freshman at QU?");
 		System.out.println("I just transfered to QU this year. I'm a sophomore.");
 		System.out.println("I'm also a sophomore. What's your major?");
+		System.out.println("I'm a math major. How about you?");
+		System.out.println("That's cool! I'm a software enginnering major.");
 		
 
 	}
